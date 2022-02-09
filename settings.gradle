@@ -1,0 +1,5 @@
+rootProject.name = 'morazo'
+include 'admin'
+include 'core'
+include 'mobile'
+
